@@ -12,7 +12,7 @@ export function Header({ cart }) {
       <div className="header">
         <div className="left-section">
           <NavLink to="/" className="header-link">
-            <h1>Home</h1>
+            <p style={{ color: "white" }}>Home</p>
             <img className="mobile-logo" src="images/mobile-logo-white.png" />
           </NavLink>
         </div>
