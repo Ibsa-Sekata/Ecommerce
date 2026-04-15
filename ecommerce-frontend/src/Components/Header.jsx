@@ -12,7 +12,7 @@ export function Header({ cart }) {
       <div className="header">
         <div className="left-section">
           <NavLink to="/" className="header-link">
-            <img className="logo" src="images/logo-white.png" />
+            <h1>Home</h1>
             <img className="mobile-logo" src="images/mobile-logo-white.png" />
           </NavLink>
         </div>
